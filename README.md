@@ -4,7 +4,7 @@ Desktop GUI applications to encryption and decription PDF files with Python3 usi
 
 ## Demo
 
-![program-demo]()
+![program-demo](https://user-images.githubusercontent.com/34337622/86960486-deaaa280-c15f-11ea-9723-71fc0986de2a.gif)
 
 ## Technologies
 
@@ -46,6 +46,6 @@ $ pipenv run python pdf_protecter.py
 pyinstaller --hidden-import pkg_resources.py2_warn --onefile --windowed pdf_protecter.py
 ```
 
-## [License](https://github.com/tarnowski-git/Simple_Note_Recognizer/blob/master/LICENSE)
+## [License](https://github.com/tarnowski-git/PDF_Protecter/blob/master/LICENSE)
 
 MIT © [Konrad Tarnowski](https://github.com/tarnowski-git)
